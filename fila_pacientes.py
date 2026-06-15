@@ -2,7 +2,7 @@ nomes = input('Digite o nomes dos pacientes')
 pacientes = nomes.split(',')
 atendido = 0
 comando = input('Digite o comando (ADICIONAR,PRIORIDADE,GRUPO,CHAMAR,fim)')
-while comando != 'fim':
+while comando != 'fim': 
     partes = comando.split(' ')
     palavra1 = partes [0] 
 
