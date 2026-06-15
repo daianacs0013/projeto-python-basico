@@ -1,28 +1,30 @@
-# projeto-python-basico
-# 🏥 Gerenciador de Fila de Pacientes
+# 💻 Projetos e Exercícios de Python
 
-Exercícios e projetos práticos de Python desenvolvidos durante a faculdade no Infnet.
+Repositório dedicado ao armazenamento e organização de todos os exercícios práticos, algoritmos e projetos desenvolvidos durante as aulas de programação na faculdade **Instituto Infnet**.
 
-## 📝 Descrição da Tarefa.
-Desenvolva um programa que gerencie uma fila de atendimento a partir de comandos lidos da entrada padrão, obrigatoriamente utilizando os métodos append, insert, extend e pop. O programa deve exibir o estado atual da fila após cada comando e, ao final, o número total de pacientes atendidos durante a sessão.
+---
 
-### ⚙️ Os comandos possíveis são:
-* ADICIONAR <nome> — adiciona ao final da fila
-* PRIORIDADE <nome> — insere na posição 0
-* GRUPO <nome1>,<nome2>,... — adiciona múltiplos nomes ao final
-* CHAMAR — remove e exibe o primeiro da fila
+## 📂 Como navegar pelos exercícios?
 
-### 📥 Entrada
-A primeira linha contém os nomes dos pacientes da fila inicial separados por vírgula. As linhas seguintes contêm os comandos, até que seja digitado fim.
+Para ver todos os códigos que eu já desenvolvi até agora, basta olhar a **lista de arquivos logo acima** desta capa! 
 
-**Exemplo de entrada:**
-Carlos,Maria,João
-PRIORIDADE Beatriz
-GRUPO Fátima,Rodrigo
-CHAMAR
-ADICIONAR Pedro
-CHAMAR
-fim
+Dentro da pasta `exercicios`, você encontrará todos os arquivos organizados com:
+* O enunciado e a pergunta explicados em formato de comentário no topo de cada código.
+* A solução completa e o algoritmo em Python logo abaixo.
 
-### 📤 Saída
-Para cada comando recebido, o programa deve exibir o estado atualizado da fila. Quando o comando for CHAMAR, deve indicar o nome do paciente chamado. Ao final, deve exibir o total de pacientes atendidos durante a sessão. O formato de exibição fica a critério do aluno, desde que seja claro e consistente ao longo de toda a execução.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** Python 3
+* **Ambiente de Desenvolvimento:** Deepnote / VS Code
+* **Controle de Versão:** Git e GitHub
+
+---
+
+## 🚀 Objetivos
+
+* Praticar a lógica de programação com desafios reais.
+* Dominar estruturas de dados (listas, filas, dicionários).
+* Aplicar conceitos avançados como *List Comprehensions* e condicionais.
+* Construir um portfólio sólido para o mercado de tecnologia.
