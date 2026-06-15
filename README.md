@@ -3,7 +3,7 @@
 
 Exercícios e projetos práticos de Python desenvolvidos durante a faculdade no Infnet.
 
-## 📝 Descrição da Tarefa
+## 📝 Descrição da Tarefa.
 Desenvolva um programa que gerencie uma fila de atendimento a partir de comandos lidos da entrada padrão, obrigatoriamente utilizando os métodos append, insert, extend e pop. O programa deve exibir o estado atual da fila após cada comando e, ao final, o número total de pacientes atendidos durante a sessão.
 
 ### ⚙️ Os comandos possíveis são:
