@@ -1,6 +1,6 @@
 """
 ==========================================================================================
-EXERCÍCIO 3: Liquidação VoltaMax
+# EXERCÍCIO: Liquidação VoltaMax
 ==========================================================================================
 
 A loja de eletrônicos VoltaMax está promovendo uma liquidação com 10% de desconto em todos 
