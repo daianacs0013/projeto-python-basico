@@ -1,6 +1,6 @@
 """
 ==========================================================================================
-EXERCÍCIO 4: Relatórios de Desempenho da Faculdade Horizonte
+EXERCÍCIO: Relatórios de Desempenho da Faculdade Horizonte
 ==========================================================================================
 
 A secretaria da Faculdade Horizonte precisa gerar dois relatórios automaticamente após o 
